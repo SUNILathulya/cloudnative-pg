@@ -18,6 +18,7 @@
 #
 
 # Image URL to use all building/pushing image targets
+#testing
 IMAGE_NAME ?= ghcr.io/cloudnative-pg/cloudnative-pg-testing
 
 # Prevent e2e tests to proceed with empty tag which
